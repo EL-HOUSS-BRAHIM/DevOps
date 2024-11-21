@@ -1,7 +1,7 @@
 git clone git@github.com:EL-HOUSS-BRAHIM/DevOps.git
 git branch -m master
 mkdir Task1
-echo "this the readme.md on the master branch" > README.md
+echo "this the readme.md on the master branch" > Task1/README.md
 git add .
 git commit -m "adding the task1 folder and the README.md file"
 git push
